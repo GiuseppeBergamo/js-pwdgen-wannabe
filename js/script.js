@@ -2,14 +2,13 @@ console.log("JS OK")
 
 
 /* 
-1- Preparo una variabile per contenere il nome
-2- Preparo una variabile per contenere il cognome
-3- preparo una variabile per contenere il colore preferito
-4- recupero variabile per la password
-5- chiedo il nome
-6- chiedo il cognome
-7- chiedo il colore
-8- risultato password
+
+1- recupero variabile per la password
+2- chiedo il nome
+3- chiedo il cognome
+4- chiedo il colore
+5- calcolo password
+6-risultato password
 
 
 
