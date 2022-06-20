@@ -42,4 +42,4 @@ console.log(password);
 
 // risultato password
 
-passGenerator.innerText = `La tua password è: ${password}`;
+passGenerator.innerHTML = `La tua password è: <strong>${password}</strong>`;
